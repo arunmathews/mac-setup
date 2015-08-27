@@ -76,41 +76,32 @@ brew cleanup
 
 brew tap caskroom/fonts
 
-defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool
-false
-sudo defaults write /Library/Preferences/com.apple.loginwindow
-AdminHostInfo HostName
-defaults write com.apple.BluetoothAudioAgent "Apple Bitpool Min
-(editable)" -int 40
+defaults write NSGlobalDomain NSDocumentSaveNewDocumentsToCloud -bool false
+sudo defaults write /Library/Preferences/com.apple.loginwindow AdminHostInfo HostName
+defaults write com.apple.BluetoothAudioAgent "Apple Bitpool Min (editable)" -int 40
 defaults write com.apple.BezelServices kDimTime -int 300
 defaults write com.apple.screensaver askForPassword -int 1
 defaults write com.apple.screensaver askForPasswordDelay -int 0
 defaults write NSGlobalDomain AppleFontSmoothing -int 2
-sudo defaults write /Library/Preferences/com.apple.windowserver
-DisplayResolutionEnabled -bool true
-defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool
-true
+sudo defaults write /Library/Preferences/com.apple.windowserver DisplayResolutionEnabled -bool true
+defaults write com.apple.finder ShowExternalHardDrivesOnDesktop -bool true
 defaults write com.apple.finder ShowStatusBar -bool true
 defaults write com.apple.finder QLEnableTextSelection -bool true
 defaults write com.apple.finder FXPreferredViewStyle Clmv
 defaults write com.apple.dock tilesize -int 36
 defaults write com.apple.Safari IncludeInternalDebugMenu -bool true
-defaults write com.apple.Safari FindOnPageMatchesWordStartsOnly -bool
-false
+defaults write com.apple.Safari FindOnPageMatchesWordStartsOnly -bool false
 defaults write com.apple.Safari IncludeDevelopMenu -bool true
-defaults write com.apple.Safari
-WebKitDeveloperExtrasEnabledPreferenceKey -bool true
-defaults write com.apple.Safari
-"com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled"
--bool true
+defaults write com.apple.Safari WebKitDeveloperExtrasEnabledPreferenceKey -bool true
+defaults write com.apple.Safari "com.apple.Safari.ContentPageGroupIdentifier.WebKit2DeveloperExtrasEnabled" -bool true
 defaults write NSGlobalDomain WebKitDeveloperExtras -bool true
-defaults write com.apple.mail AddressesIncludeNameOnPasteboard -bool
-false
+defaults write com.apple.mail AddressesIncludeNameOnPasteboard -bool false
 sudo pmset -a sms 0
 sudo pmset -a standbydelay 86400
-defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls
--bool false
+defaults write com.google.Chrome AppleEnableSwipeNavigateWithScrolls -bool false
 
+cp .zshrc ~/
+cp .zsh_history ~/
 cp .gitconfig ~/
 cp .gitignore_global ~/
 cp ImportantCommands.txt ~/
