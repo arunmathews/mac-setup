@@ -2,6 +2,7 @@ brew install coreutils
 brew install findutils
 brew tap homebrew/dupes
 brew install homebrew/dupes/grep
+brew install caskroom/cask/brew-cask
 brew tap caskroom/versions
 apps=(\
   alfred\
@@ -42,7 +43,7 @@ apps=(\
 
 brew cask install --appdir="/Applications" ${apps[@]}
 
-oh my zsh
+Install oh my zsh
 
 binaries=(
   graphicsmagick\
