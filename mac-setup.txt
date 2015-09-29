@@ -38,7 +38,9 @@ apps=(\
   coqide\
   kitematic\
   haskell-platform\
-  istat-menus
+  istat-menus\
+  mozart\
+  aquamacs
 )
 
 brew cask install --appdir="/Applications" ${apps[@]}
@@ -113,6 +115,9 @@ rsync --sparse -aHx --delete --delete-excluded .ssh/ ~/.ssh
 rsync --sparse -aHx --delete --delete-excluded Utils/ ~/Utils
 rsync --sparse -aHx --delete --delete-excluded Themes/ ~/Themes
 rsync --sparse -aHx --delete --delete-excluded  .gitTemplates/ ~/.gitTemplates
+curl -Lo- https://bit.ly/janus-bootstrap | bash
+mkdir -p .janus/tomorrow-theme
+cp -R ~/Themes/tomorrow-theme/vim/ .janus/tomorrow-theme
 cp .vimrc.after ~/
 
 
