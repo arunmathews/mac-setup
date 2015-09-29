@@ -120,4 +120,12 @@ mkdir -p .janus/tomorrow-theme
 cp -R ~/Themes/tomorrow-theme/vim/ .janus/tomorrow-theme
 cp .vimrc.after ~/
 
+vim ~/.ssh/config
+--Make changes(add personal and work accounts)
+ssh-add -D
+ssh-add id_rsa_personal
+ssh-add id_rsa_work
+ssh-add -l
+ssh -T personal
+ssh -T work
 
