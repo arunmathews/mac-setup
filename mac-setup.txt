@@ -1,3 +1,7 @@
+hdiutil create -size 50g -volname Unix -type SPARSEBUNDLE  -fs 'Case-sensitive Journaled HFS+' -verbose -attach ~/Unix;
+rsync --sparse -aHx --delete --delete-excluded Unix/personal/ /Volumes/Unix/personal
+hdiutil attach -mountpoint /Volumes/Unix Unix.sparsebundle
+
 brew install coreutils
 brew install findutils
 brew tap homebrew/dupes
