@@ -43,6 +43,7 @@ apps=(\
   kitematic\
   haskell-platform\
   istat-menus\
+  yed\
   mozart\
   aquamacs
 )
@@ -133,3 +134,7 @@ ssh-add -l
 ssh -T personal
 ssh -T work
 
+Uninstall -
+Use appcleaner first
+
+brew cask uninstall --force ${apps[@]}
