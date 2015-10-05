@@ -45,7 +45,8 @@ apps=(\
   istat-menus\
   yed\
   mozart\
-  aquamacs
+  aquamacs\
+  google-drive
 )
 
 brew cask install --appdir="/Applications" ${apps[@]}
