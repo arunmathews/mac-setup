@@ -46,7 +46,8 @@ apps=(\
   yed\
   mozart\
   aquamacs\
-  google-drive
+  google-drive\
+  adobe-reader
 )
 
 brew cask install --appdir="/Applications" ${apps[@]}
