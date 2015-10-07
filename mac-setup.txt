@@ -47,7 +47,9 @@ apps=(\
   mozart\
   aquamacs\
   google-drive\
-  adobe-reader
+  adobe-reader\
+  postgres\
+  postico
 )
 
 brew cask install --appdir="/Applications" ${apps[@]}
