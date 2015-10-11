@@ -79,6 +79,7 @@ binaries=(
   docker\
   sbt\
   tig\
+  httpie
 )
 brew install ${binaries[@]}
 
