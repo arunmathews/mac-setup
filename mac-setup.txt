@@ -140,6 +140,7 @@ ssh -T personal
 ssh -T work
 
 Install docker-osx-dev - https://github.com/brikis98/docker-osx-dev
+Instal fig - pip install -U fig
 
 Uninstall -
 Use appcleaner first
