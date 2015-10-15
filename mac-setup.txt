@@ -79,7 +79,8 @@ binaries=(
   docker\
   sbt\
   tig\
-  httpie
+  httpie\
+  flyway
 )
 brew install ${binaries[@]}
 
