@@ -49,7 +49,8 @@ apps=(\
   google-drive\
   adobe-reader\
   postgres\
-  postico
+  postico\
+  graphviz
 )
 
 brew cask install --appdir="/Applications" ${apps[@]}
