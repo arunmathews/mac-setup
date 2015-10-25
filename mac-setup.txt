@@ -50,8 +50,7 @@ apps=(\
   adobe-reader\
   postgres\
   postico\
-  graphviz\
-  visualvm
+  graphviz
 )
 
 brew cask install --appdir="/Applications" ${apps[@]}
