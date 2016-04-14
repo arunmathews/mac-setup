@@ -51,7 +51,8 @@ apps=(\
   postgres\
   postico\
   graphviz\
-  ngrok
+  ngrok\
+  gpgtools
 )
 
 brew cask install --appdir="/Applications" ${apps[@]}
@@ -82,7 +83,11 @@ binaries=(
   sbt\
   tig\
   httpie\
-  flyway
+  flyway\
+  wget\
+  ghc\
+  haskell-stack\
+  phantomjs
 )
 brew install ${binaries[@]}
 
