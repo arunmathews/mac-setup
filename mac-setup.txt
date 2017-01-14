@@ -52,7 +52,8 @@ apps=(\
   postico\
   graphviz\
   ngrok\
-  gpgtools
+  gpgtools\
+  google-chrome-canary
 )
 
 brew cask install --appdir="/Applications" ${apps[@]}
