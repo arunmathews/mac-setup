@@ -53,7 +53,8 @@ apps=(\
   graphviz\
   ngrok\
   gpgtools\
-  google-chrome-canary
+  google-chrome-canary\
+  docker
 )
 
 brew cask install --appdir="/Applications" ${apps[@]}
