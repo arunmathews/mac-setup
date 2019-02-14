@@ -89,7 +89,16 @@ binaries=(
   wget\
   ghc\
   haskell-stack\
-  phantomjs
+  phantomjs\
+  ruby\
+  rbenv\
+  erlang\
+  elixir\
+  leiningen\
+  packer\
+  nvm\
+  git-lfs\
+  git-secret
 )
 brew install ${binaries[@]}
 
