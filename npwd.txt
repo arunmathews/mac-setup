@@ -75,7 +75,7 @@ turbotax
 simplycreditciconsumerapi(dockerhub)
 aci-simplycredit-4(arun@simplycreditinc.com)
 amazon-simplycredit(arun@simplycreditinc.com)
-gusto-simplycredit
+gusto(arun.a.mathews@gmail.com)
 charles-schwab
 eshares-simplycredit
 redash-simplycredit
