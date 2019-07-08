@@ -164,3 +164,4 @@ jetbrainsremitly(arunm-remitly)
 aws-remitly(arunm)
 lucidchart-remitly(arun.a.mathews@gmail.com)
 rsa-key-work
+oracle+remitly(arunm-remitly)
