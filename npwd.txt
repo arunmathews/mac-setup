@@ -49,7 +49,7 @@ asana-simplycredit
 rsa-key-personal
 aws-simplycredit(arun)
 lastpass-simplycredit
-dockerhub-simplycredit(arunmathews)
+dockerhub(arunmathews)
 jetbrains-simplycredit(arunmathews)
 bizspark-simplycredit(arun@simplycreditinc.com)
 verygoodvault
