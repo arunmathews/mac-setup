@@ -177,3 +177,4 @@ empower(mathews1978) take 16
 cruise-city(mathews1978) take 18
 cruise-abacus
 tripshot
+cruise-gmid (gmid from profile)
