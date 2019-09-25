@@ -126,7 +126,7 @@ smith-brothers(arun.a.mathews@gmail.com) take 22
 knowbe4-simplycredit(arun@simplycreditinc.com)
 digitalocean-simplycredit(arun@simplycreditinc.com)
 patreon
-paypal(arun.a.mathews@gmail.com) take 20
+paypal-2(arun.a.mathews@gmail.com) take 20
 ada(368507492) take 22
 lulu(arun.a.mathews@gmail.com)
 blurb(mathews1978)
