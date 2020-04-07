@@ -202,3 +202,5 @@ ring(arun.a.mathews@gmail.com)
 hdfc(cust id) take 15
 microsoft
 skills-matter(mathews1978)
+netflix(arun.a.mathews@gmail.com)
+slack-sfbayareatech
