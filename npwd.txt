@@ -173,7 +173,7 @@ nextravel-cruise(arun.mathews@getcruise.com)
 delta(arunmathews) - take 20
 cruise-sapling - add ';' at end
 cruise-okta
-empower(mathews1978) take 16
+empower(mathews1978) take 16. Pin - Susan birthday 6 digits
 cruise-city(mathews1978) take 18
 cruise-abacus
 tripshot
@@ -223,3 +223,4 @@ parler(arun.a.mathews@gmail.com)
 cruise-contentful(arun.mathews@getcruise.com)
 irs(arunmathews) @ + take 22
 twitch(arunmathews)
+cruise-solium(mathews1978) 
