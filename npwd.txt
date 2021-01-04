@@ -65,7 +65,7 @@ lake-washington(tmalamel)
 loggly-simplycredit-2(arun)
 wallet-prod(our wallet site)
 yelp
-walicense-2(mathews1978)
+walicense-3(mathews1978)
 sourcetree
 digital-id-molu
 simplycredit-build(github)
