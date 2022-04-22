@@ -174,7 +174,7 @@ delta(arunmathews) - take 20
 cruise-sapling - add ';' at end
 cruise-okta
 empower(mathews1978) take 16. Pin - Susan birthday 6 digits
-cruise-city(mathews1978) take 18
+cruise-citi-card(mathews1978) take 17 and '1' at the end
 cruise-abacus
 tripshot
 cruise-gmid (gmid from profile)
