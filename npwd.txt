@@ -169,7 +169,7 @@ vsp(arun.a.mathews@gmail.com)
 chase-online(arunmathews1978)
 starwood(arun.a.mathews@gmail.com)
 vfs-global-uk(arun.a.mathews@gmail.com) - old password
-nextravel-cruise(arun.mathews@getcruise.com)
+nextravel-cruise(cruise email)
 delta(arunmathews) - take 20
 cruise-sapling - add ';' at end
 cruise-okta
@@ -190,9 +190,9 @@ anthem(mathews1978) take 13
 kaw(arun.a.mathews@gmail.com) take 15
 american-home-shield(arun.a.mathews@gmail.com) 
 health-portal(arun.a.mathews@gmail.com) https://mycw57.eclinicalweb.com/portal7037/jsp/100mp/login_otp.jsp
-cruise-perkspot(arun.mathews@getcruise.com) https://cruise.perkspot.com/
+cruise-perkspot(cruise email) https://cruise.perkspot.com/
 global-entry(https://ttp.cbp.dhs.gov/)
-cruise-heroku(arun.mathews@getcruise.com)
+cruise-heroku(cruise email)
 stack-overflow(arun.a.mathews@gmail.com)
 apress(arun.a.mathews@gmail.com)
 doordash(arun.a.mathews@gmail.com)
@@ -220,7 +220,7 @@ email-bankofamerica(arun.a.mathews@gmail.com) take 20
 sammamish-mortgage(arun.a.mathews@gmail.com)
 locals-4(arunmathews) take 22
 parler(arun.a.mathews@gmail.com)
-cruise-contentful(arun.mathews@getcruise.com)
+cruise-contentful(cruise email)
 irs(arunmathews) @ + take 22
 twitch(arunmathews)
 cruise-solium(mathews1978)
@@ -238,10 +238,10 @@ raj-tax-onvio(arun.a.mathews@gmail.com)
 wsf-vehicle-reservations(arun.a.mathews@gmail.com - ferry) - take 22
 venmo(arun.a.mathews@gmail.com)
 eye-associates(arunmathews)
-front-end-test-fest(arun.mathews@getcruise.com)
+front-end-test-fest(cruise email)
 hertz(mathews1978) - take 22 + @
 wa-immunization(https://wa.myir.net/) 
-cruise-twilio(arun.mathews@getcruise.com)
+cruise-twilio(cruise email)
 bear-creek-school(arun.mathews)
 st-monica-school(arun.mathews)
 bear-creek-facts(arun.mathews) - take 22 + @
@@ -250,10 +250,11 @@ dropbox-susan(susieee.susan@gmail.com)
 tradyl(arun.a.mathews@gmail.com)
 -farm(arunmathews)
 secureaccesswa(arun.mathews)
-1health(arun.mathews@getcruise.com)
+1health(cruise email)
 bear-creek-vidigami(arun.a.mathews@gmail.com)
 costco-tire-center(arun.a.mathews@gmail.com) - https://costcotireappointments.com/login
 sling-tv(arun.a.mathews@gmail.com)
 surfshark(arun.a.mathews@gmail.com)
 susan-apple(susieee.susan@gmail.com)
 fedex(mathews1978)
+cruise-statsig(cruise email)
