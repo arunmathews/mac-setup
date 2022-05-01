@@ -74,7 +74,7 @@ turbotax
 simplycreditciconsumerapi(dockerhub)
 aci-simplycredit-4(arun@simplycreditinc.com)
 amazon-simplycredit(arun@simplycreditinc.com)
-gusto(arun.a.mathews@gmail.com)
+gusto(personal email)
 charles-schwab
 eshares-simplycredit
 redash-simplycredit
@@ -86,55 +86,55 @@ kirklandeye(mathews1978)
 clojars(arun)
 airwatch-ssp(arun@simplycreditinc.com)
 rosemary-gmail(rosemary.malamel@gmail.com)
-old-republic(arun.a.mathews@gmail.com)
+old-republic(personal email)
 ridgewood-newcastle(arun.mathews)
 comcast(arun.a.mathews) take 16
 goodtogo(arunmathews) take 16
 fidelity-home-warranty-3(arun.mathews) take 12
-waste-management(arun.a.mathews@gmail.com) take 15
+waste-management(personal email) take 15
 unitedhealthcare(mathews1978)
-nextdoor(arun.a.mathews@gmail.com)
+nextdoor(personal email)
 lightstream(mathews1978)
-ccud(arun.a.mathews@gmail.com) take 22 coal creek utility
-zillow(arun.a.mathews@gmail.com)
-nest-home(arun.a.mathews@gmail.com)
+ccud(personal email) take 22 coal creek utility
+zillow(personal email)
+nest-home(personal email)
 ecovacs(20)
 audifs(mathews1978) take 22
 uwcde(tmalamel)
 secureaccesswa-2(theresa.malamel)
 simplycreditcidataservice(dockerhub - arun+simplycreditcidataservice@)
-uship(arun.a.mathews@gmail.com) take 20
+uship(personal email) take 20
 icloud(apple)
 woo.io
 valleymed(theresa.malamel) take 20
 leanpub
 azimuth-forum
 nationalcpr(theresa.malamel@gmail.com)
-pizza-hut(arun.a.mathews@gmail.com) take 22
-bungii(arun.a.mathews@gmail.com) take 22
+pizza-hut(personal email) take 22
+bungii(personal email) take 22
 slack-seahug
 zendesk-simplycredit
 researchgate(arun@simplycreditinc.com)
-gumroad(arun.a.mathews@gmail.com)
+gumroad(personal email)
 audioboom
-cord-blood(arun.a.mathews@gmail.com) take 15
+cord-blood(personal email) take 15
 alienvault-simplycredit
 organicstart
 organic-start-wholesale
 amazon-personal
-smith-brothers(arun.a.mathews@gmail.com) take 22
+smith-brothers(personal email) take 22
 knowbe4-simplycredit(arun@simplycreditinc.com)
 digitalocean-simplycredit(arun@simplycreditinc.com)
 patreon
-paypal-2(arun.a.mathews@gmail.com) take 20
+paypal-2(personal email) take 20
 susan-ada(368507492) take 22
-lulu(arun.a.mathews@gmail.com)
+lulu(personal email)
 blurb(mathews1978)
-costco-travel(arun.a.mathews@gmail.com)
+costco-travel(personal email)
 allegro-pediatrics(arun.mathews)
-t-mobile(arun.a.mathews@gmail.com) take 22
-orange-theory(arun.a.mathews@gmail.com) take 15
-orange-theory-app(arun.a.mathews@gmail.com)
+t-mobile(personal email) take 22
+orange-theory(personal email) take 15
+orange-theory-app(personal email)
 new-roots-organics(arun.mathews) take 22
 beacon-america(df80e94f) take 15
 gpg-simplycredit
@@ -144,31 +144,31 @@ mallu-guest-wpa
 leetcode(arun_mathews)
 presnapreads(arun.mathews) - arunamathews@gmail.com
 iphone-backup
-hired - arun.a.mathews@gmail.com
-neato - arun.a.mathews@gmail.com
+hired - personal email
+neato - personal email
 vonage - 4256293006 - take 16
 wa-healthplan-finder - arunmathews
 premera - arunmathews - take 22
 topcoder - arun.mathews
-rippling - arun.a.mathews@gmail.com
-jobvite - arun.a.mathews@gmail.com
-care.com - arun.a.mathews@gmail.com(22)
-abacus(arun.a.mathews@gmail.com)
-intellij(arun.a.mathews@gmail.com)
-uscis(arun.a.mathews@gmail.com)
+rippling - personal email
+jobvite - personal email
+care.com - personal email(22)
+abacus(personal email)
+intellij(personal email)
+uscis(personal email)
 uscis-theresa(theresa.malamel@gmail.com)
-hire-right(arun.a.mathews@gmail.com)
-uk-visa(arun.a.mathews@gmail.com)
+hire-right(personal email)
+uk-visa(personal email)
 concur-remitly(arunm@remitly.com)
 jetbrainsremitly(arunm-remitly)
 aws-remitly(arunm)
-lucidchart-remitly(arun.a.mathews@gmail.com)
+lucidchart-remitly(personal email)
 rsa-key-work
 oracle+remitly(arunm-remitly)
-vsp(arun.a.mathews@gmail.com)
+vsp(personal email)
 chase-online(arunmathews1978)
-starwood(arun.a.mathews@gmail.com)
-vfs-global-uk(arun.a.mathews@gmail.com) - old password
+starwood(personal email)
+vfs-global-uk(personal email) - old password
 nextravel-cruise(cruise email)
 delta(arunmathews) - take 20
 cruise-sapling - add ';' at end
@@ -178,48 +178,48 @@ cruise-citi-card(mathews1978) take 17 and '1' at the end
 cruise-abacus
 tripshot
 cruise-gmid (gmid from profile)
-brain-fm (arun.a.mathews@gmail.com)
+brain-fm (personal email)
 cruise-amex-travel(mathews aruncc)
 gcloud_rsa_work
 discovery-benefits-3(arun.mathews) take 15 add '@' at end now wex
 priority-pass(arunmathews) take 15
 merrill-lynch(arun.mathews) take 20
-urban-sitter(arun.a.mathews@gmail.com) 
+urban-sitter(personal email) 
 care.com(arunamathews@gmail.com) take 22
 anthem(mathews1978) take 13
-kaw(arun.a.mathews@gmail.com) take 15
-american-home-shield(arun.a.mathews@gmail.com) 
-health-portal(arun.a.mathews@gmail.com) https://mycw57.eclinicalweb.com/portal7037/jsp/100mp/login_otp.jsp
+kaw(personal email) take 15
+american-home-shield(personal email) 
+health-portal(personal email) https://mycw57.eclinicalweb.com/portal7037/jsp/100mp/login_otp.jsp
 cruise-perkspot(cruise email) https://cruise.perkspot.com/
 global-entry(https://ttp.cbp.dhs.gov/)
 cruise-heroku(cruise email)
-stack-overflow(arun.a.mathews@gmail.com)
-apress(arun.a.mathews@gmail.com)
-doordash(arun.a.mathews@gmail.com)
+stack-overflow(personal email)
+apress(personal email)
+doordash(personal email)
 progressive-3(mathews1978)
 wa-license-susan-2(tmalamel)
-ring(arun.a.mathews@gmail.com)
+ring(personal email)
 hdfc-4(cust id) take 15
-microsoft(arun.a.mathews@gmail.com)
+microsoft(personal email)
 skills-matter(mathews1978)
-netflix(arun.a.mathews@gmail.com)
+netflix(personal email)
 slack-sfbayareatech
-zoom(arun.a.mathews@gmail.com)
-qb-data-mine(arun.a.mathews@gmail.com)
+zoom(personal email)
+qb-data-mine(personal email)
 tdsc(theresa.malamel@gmail.com) take 22
-funai-neato(arun.a.mathews@gmail.com) take 20
+funai-neato(personal email) take 20
 uscis-amma(manitharayil01@gmail.com)
 cruise-amplitude
 cruise-icloud
-india-passport(https://portal4.passportindia.gov.in/Online/index.html) arun.a.mathews@gmail.com take 14
+india-passport(https://portal4.passportindia.gov.in/Online/index.html) personal email take 14
 multi-choice-insurance-amma(manitharayil01@gmail.com) take 22
 fidelity-investments(arunmathews) take 20
 dropbear-rsa-key
 ondiem(theresa.malamel@gmail.com) take 22
-email-bankofamerica(arun.a.mathews@gmail.com) take 20
-sammamish-mortgage(arun.a.mathews@gmail.com)
+email-bankofamerica(personal email) take 20
+sammamish-mortgage(personal email)
 locals-4(arunmathews) take 22
-parler(arun.a.mathews@gmail.com)
+parler(personal email)
 cruise-contentful(cruise email)
 irs(arunmathews) @ + take 22
 twitch(arunmathews)
@@ -229,14 +229,14 @@ abishai-gmail
 global-entry-abishai(https://ttp.cbp.dhs.gov/)
 mom-usvia-cgi(monica1953@gmail.com) take 22
 susan-tiaa(theresaMalamel)
-newcastle-hoa-pmi(arun.a.mathews@gmail.com) - https://pmips.cincwebaxis.com/cinc
+newcastle-hoa-pmi(personal email) - https://pmips.cincwebaxis.com/cinc
 email-wfg-title - take 19
 capital-one(mathews1978) - take 22
 ally-bank(arunmathews)
 cruise-blind(username in email)
-raj-tax-onvio(arun.a.mathews@gmail.com)
-wsf-vehicle-reservations(arun.a.mathews@gmail.com - ferry) - take 22
-venmo(arun.a.mathews@gmail.com)
+raj-tax-onvio(personal email)
+wsf-vehicle-reservations(personal email - ferry) - take 22
+venmo(personal email)
 eye-associates(arunmathews)
 front-end-test-fest(cruise email)
 hertz(mathews1978) - take 22 + @
@@ -247,14 +247,15 @@ st-monica-school(arun.mathews)
 bear-creek-facts(arun.mathews) - take 22 + @
 delta-dental(arunmathews)
 dropbox-susan(susieee.susan@gmail.com)
-tradyl(arun.a.mathews@gmail.com)
+tradyl(personal email)
 -farm(arunmathews)
 secureaccesswa(arun.mathews)
 1health(cruise email)
-bear-creek-vidigami(arun.a.mathews@gmail.com)
-costco-tire-center(arun.a.mathews@gmail.com) - https://costcotireappointments.com/login
-sling-tv(arun.a.mathews@gmail.com)
-surfshark(arun.a.mathews@gmail.com)
+bear-creek-vidigami(personal email)
+costco-tire-center(personal email) - https://costcotireappointments.com/login
+sling-tv(personal email)
+surfshark(personal email)
 susan-apple(susieee.susan@gmail.com)
 fedex(mathews1978)
 cruise-statsig(cruise email)
+costco-wholesale(personal email)
