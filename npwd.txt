@@ -261,6 +261,6 @@ cruise-statsig(cruise email)
 costco-wholesale(personal email)
 cruise-kudoboard(cruise email)
 ihg-rewards(personal email)
-qatar-airways(personal email) - take 16  + @
+qatar-airways(personal email) - take 19  + @
 vfs-global-molu(personal email) - take 14 + #
 pacific-underwriters-susan(susan email) - take 22
