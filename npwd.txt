@@ -126,7 +126,7 @@ smith-brothers(personal email) take 22
 knowbe4-simplycredit(arun@simplycreditinc.com)
 digitalocean-simplycredit(arun@simplycreditinc.com)
 patreon
-paypal-2(personal email) take 20
+paypal-5(personal email) take 20
 susan-ada(368507492) take 22
 lulu(personal email)
 blurb(mathews1978)
