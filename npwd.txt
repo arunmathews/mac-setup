@@ -65,7 +65,7 @@ lake-washington(tmalamel)
 loggly-simplycredit-2(arun)
 wallet-prod(our wallet site)
 yelp
-walicense-3(mathews1978)
+walicense-4(mathews1978)
 sourcetree
 digital-id-molu
 simplycredit-build(github)
@@ -269,6 +269,7 @@ myorca(personal email)
 nfl(personal email)
 univta-alumni-alliance(cruise email)
 ticketmaster
-summit-snoqualmie(personam email) take 15 + !
+summit-snoqualmie(personal email) take 15 + !
 gm-beneplace(cruise)
 expedia-2(personal email) + @
+kraken-iceplex
