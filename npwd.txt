@@ -274,3 +274,4 @@ gm-beneplace(cruise)
 expedia-2(personal email) + @
 kraken-iceplex
 chatgpt
+character-ai
