@@ -167,7 +167,7 @@ rsa-key-work
 oracle+remitly(arunm-remitly)
 vsp(personal email)
 chase-online(arunmathews1978)
-starwood(personal email)
+marriott(personal email) take 22
 vfs-global-uk(personal email) - old password
 nextravel-cruise(cruise email)
 delta(arunmathews) - take 20
