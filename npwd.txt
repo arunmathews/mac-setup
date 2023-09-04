@@ -281,4 +281,8 @@ smart-hq
 einthusan(personal email)
 the-american-conservative(personal email)
 git-nation
+<<<<<<< HEAD
 amos-miller() take 22
+=======
+wise
+>>>>>>> ed64c1b (More)
