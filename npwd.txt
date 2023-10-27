@@ -287,3 +287,4 @@ dennis-uniform(personal email) take 22
 susan-401k-rosemary
 molu-uwnetid(tmalamel) take 22
 ngrok-cruise(cruise email)
+gitlab-congatec(cruise email)
