@@ -284,7 +284,7 @@ git-nation
 amos-miller() take 22
 wise
 dennis-uniform(personal email) take 22
-susan-401k-rosemary
+susan-401k-rosemary(susieee email) guideline
 molu-uwnetid(tmalamel) take 22
 ngrok-cruise(cruise email)
 gitlab-congatec(cruise email)
