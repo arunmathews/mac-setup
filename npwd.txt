@@ -288,3 +288,4 @@ susan-401k-rosemary(susieee email) guideline
 molu-uwnetid(tmalamel) take 22
 ngrok-cruise(cruise email)
 gitlab-congatec(cruise email)
+github-lectronix(cruise email)
