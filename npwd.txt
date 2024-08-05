@@ -258,7 +258,7 @@ surfshark(personal email)
 susan-apple(susieee.susan@gmail.com)
 fedex(mathews1978)
 cruise-statsig(cruise email)
-costco-wholesale-2(personal email) - take 22 + @
+costco-wholesale-4(personal email) - take 15
 cruise-kudoboard(cruise email)
 ihg-rewards(personal email)
 qatar-airways(personal email) - take 19  + @
@@ -296,3 +296,4 @@ meera-ewallet(personal email)
 susan-protector-plan-3 - take 20(personal email)
 aaa-3(personal email) take 16
 postman-cruise(arunmathewscruise)
+theresa-id-me(personal email)
