@@ -297,3 +297,4 @@ susan-protector-plan-3 - take 20(personal email)
 aaa-3(personal email) take 16
 postman-cruise(arunmathewscruise)
 theresa-id-me(personal email)
+browserstack-cruise
