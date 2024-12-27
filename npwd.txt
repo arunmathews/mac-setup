@@ -237,7 +237,7 @@ cruise-blind(username in email)
 raj-tax-onvio(personal email)
 wsf-vehicle-reservations(personal email - ferry) - take 22
 venmo(personal email)
-eye-associates-2(arunmathews) take 20
+eye-associates-2(personal email) take 20
 front-end-test-fest(cruise email)
 hertz(mathews1978) - take 22 + @
 wa-immunization(https://wa.myir.net/) 
